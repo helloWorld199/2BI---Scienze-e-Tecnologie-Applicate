@@ -22,8 +22,8 @@ int main()
             std::cout << i << " Fizz \n"; // Stampa Fizz
         } else if (i%5 == 0){ // Altrimenti, se è solo divisibile per 5
             std::cout << i << " Buzz \n"; // Stampa Buzz
-        } else {
-            std::cout << i << "\n";
+        } else { // Altrimenti (caso in cui il numero non è NE' divisibile per 3, NE' per 5.
+            std::cout << i << "\n"; // Stampa solo il numero.
         }
     }
     
