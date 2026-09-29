@@ -1,2 +1,2 @@
-# 2BI---Scienze-e-Tecnologie-Applicate
+# STA - Scienze e Tecnologie Applicate
 Materiali del corso
