@@ -1,7 +1,7 @@
 /*
 * FizzBuzz dinamico
 * Richiedere all'utente un numero lvl > 1.
-* Stampare i numeri da 1 fino a fino a lvl, insieme a "Fizz" se il numero è divisibile per 3,
+* Stampare i numeri da 1 fino a lvl, insieme a "Fizz" se il numero è divisibile per 3,
 * "Buzz" se il numero è divisibile per 5 e "FizzBuzz" se è divisibile sia per 3 che per 5.
 */
 
